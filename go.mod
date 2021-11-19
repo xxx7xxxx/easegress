@@ -13,7 +13,7 @@ require (
 	github.com/fatih/color v1.12.0
 	github.com/fatih/structs v1.1.0
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-chi/chi/v5 v5.0.3
+	github.com/go-chi/chi/v5 v5.0.7
 	github.com/go-zookeeper/zk v1.0.2
 	github.com/hashicorp/consul/api v1.8.1
 	github.com/hashicorp/golang-lru v0.5.4
@@ -46,7 +46,6 @@ require (
 	go.etcd.io/etcd/server/v3 v3.5.0
 	go.uber.org/zap v1.17.0
 	gopkg.in/yaml.v2 v2.4.0
-	gotest.tools/v3 v3.0.3
 	k8s.io/api v0.20.7
 	k8s.io/apimachinery v0.20.7
 	k8s.io/cli-runtime v0.20.7 // indirect
