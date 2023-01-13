@@ -24,7 +24,7 @@ require (
 	github.com/megaease/grace v1.0.0
 	github.com/megaease/jsonschema v0.0.0-20191230042224-e92108cfafc5
 	github.com/mitchellh/mapstructure v1.4.1
-	github.com/nacos-group/nacos-sdk-go v1.0.8
+	github.com/nacos-group/nacos-sdk-go v1.1.4
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.4.5
 	github.com/openzipkin/zipkin-go v0.2.5
@@ -46,7 +46,6 @@ require (
 	go.etcd.io/etcd/server/v3 v3.5.0
 	go.uber.org/zap v1.17.0
 	gopkg.in/yaml.v2 v2.4.0
-	gotest.tools/v3 v3.0.3
 	k8s.io/api v0.20.7
 	k8s.io/apimachinery v0.20.7
 	k8s.io/cli-runtime v0.20.7 // indirect
